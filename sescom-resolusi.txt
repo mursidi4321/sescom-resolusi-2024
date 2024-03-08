@@ -5,3 +5,5 @@ Resolusi sescom tahun 2024
 
 Dalam merencakan kadang ada yang dijalankan ada yang ditambah
 karena menyesuaikan sikon / situasi dan kondisi
+
+Yang kedua ini masih dicabang untuk mencoba apakah fitur ini masih bisa jalan
